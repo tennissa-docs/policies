@@ -135,18 +135,6 @@ Applicants must also:
 - meet any lawful, objective program criteria (such as grade level or need tiers) published **before** the application period opens; and
 - agree to the award terms.
 
-### 4.6 Ineligible students: disqualified persons
-
-A student is **not** eligible if the student is a "disqualified person" with respect to TENNISSA under Section 25F. This bar is **absolute**. Disclosure and recusal do not cure it. Under current guidance, disqualified persons generally include:
-
-- directors and officers of TENNISSA;
-- members of the Scholarship Committee;
-- substantial contributors, as defined in the regulations; and
-- family members of any of these persons, and entities they control.
-
-The Executive Director administers this screen using the annual disclosures under the [Conflict of Interest Policy](07-conflict-of-interest-policy.md). The screen applies to the children and grandchildren of every director, **including the Founding Directors**.
-
-> *Counsel note.* This is a hard rule. It affects TENNISSA's founders and board members whose children attend Islamic schools, and they should know about it before joining or donating.
 
 ## 5. Priority and Selection
 
