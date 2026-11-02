@@ -178,7 +178,7 @@ Awards are approved by the Scholarship Committee or another body of at least two
 
 ### 7.1 Qualified expenses only
 
-Awards pay only for qualified elementary or secondary education expenses under Section 25F at the participating school. This is mainly tuition and required fees, plus other expenses the guidance allows.
+Awards pay only for qualified elementary or secondary education expenses under Section 25F at the participating school. This is mainly tuition and required fees only.
 
 ### 7.2 Paid directly to the school
 
